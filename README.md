@@ -4,10 +4,10 @@
 
 ```shell
 # install it globally
-$ npm install -g zhurong-cli
+$ npm install -g lc-cli
 
 # or yarn
-$ yarn global add zhurong-cli
+$ yarn global add lc-cli
 ```
 
 ### 使用 
@@ -15,7 +15,7 @@ $ yarn global add zhurong-cli
 #### Quick Start 
 
 ```shell
-$ zr create <name> [-f|--force]
+$ lc create <name> [-f|--force]
 ```
 
 #### Options
