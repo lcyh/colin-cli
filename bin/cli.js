@@ -41,14 +41,14 @@ program
 
 program
   .on('--help', () => {
-    console.log('\r\n' + figlet.textSync('zhurong', {
+    console.log('\r\n' + figlet.textSync('lc', {
       font: 'Ghost',
       horizontalLayout: 'default',
       verticalLayout: 'default',
       width: 80,
       whitespaceBreak: true
     }));
-    console.log(`\r\nRun ${chalk.cyan(`zr <command> --help`)} for detailed usage of given command\r\n`)
+    console.log(`\r\nRun ${chalk.cyan(`lc <command> --help`)} for detailed usage of given command\r\n`)
   })
 
 // 解析用户执行命令传入参数
