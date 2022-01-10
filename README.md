@@ -4,10 +4,10 @@
 
 ```shell
 # install it globally
-$ npm install -g lc-cli
+$ npm install -g lcyhy-cli
 
 # or yarn
-$ yarn global add lc-cli
+$ yarn global add lcyhy-cli
 ```
 
 ### 使用 
@@ -15,7 +15,7 @@ $ yarn global add lc-cli
 #### Quick Start 
 
 ```shell
-$ lc create <name> [-f|--force]
+$ lcyhy create <name> [-f|--force]
 ```
 
 #### Options

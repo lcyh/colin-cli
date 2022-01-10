@@ -1,10 +1,10 @@
 {
-  "name": "lc-cli",
+  "name": "lcyhy-cli",
   "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "lc": "./bin/cli.js"
+    "lcyhy": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,8 +18,8 @@
     "email": "173408798@qq.com"
   },
   "keywords": [
-    "lc-cli",
-    "lc",
+    "lcyhy-cli",
+    "lcyhy",
     "脚手架"
   ],
   "license": "MIT",
